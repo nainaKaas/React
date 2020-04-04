@@ -1,0 +1,1 @@
+this is the pokemon game.that's all.
