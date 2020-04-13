@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App-header">
       <Lottery />
       <Lottery  title = "miniday" maxNum = {10} numBalls={4}/>
 
